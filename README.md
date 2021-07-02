@@ -1,5 +1,5 @@
-Repository with R routines used in the paper:
-**"Flexible robust mixture regression modeling"**, Accepted at REVSTAT, Statistical Journal.
+Repository with R routines used in:
+**"Flexible robust mixture regression modeling"**, Accepted at REVSTAT - Statistical Journal.
 
 All functions and data sets are located in the root directory.
 - **MCMC_MixReg_SkewNormal.R** : MCMC routine for mixture of regressions based on the skew normal distribution;
